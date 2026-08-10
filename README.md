@@ -61,5 +61,15 @@ Some key insights from this page –
 ## Conclusions:
 The analysis shows that customer spending and revenue indicators vary considerably across customer demographics, geographic regions, card categories, and weeks. While revolving balances are associated with higher interest earned, higher credit limits alone do not appear to correspond with higher delinquency in the observed data.
 
+## Screenshots:
+How the report looks like - 
 
+Customer Spending and Revenue
 
+ ![Dashboard Preview](https://github.com/Biswas014/Credit-Card-Customer-Business-Analytics-Dashboard/blob/main/Screenshots/Customer%20Spending%20%26%20Revenue.JPG
+)
+
+Credit Risk Indicators
+
+![Dashboard Preview](https://github.com/Biswas014/Credit-Card-Customer-Business-Analytics-Dashboard/blob/main/Screenshots/Credi%20Risk%20Indicators.JPG
+)
